@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/rigidbodydem.unity
+  isLoaded: 1
+  isActive: 1
